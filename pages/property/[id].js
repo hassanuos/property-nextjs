@@ -29,7 +29,7 @@ const PropertyDetails = ({ propertiesDetails: {price, rentFrequency, rooms, titl
                     </Flex>
 
                     <Box marginTop={2}>
-                        <Text fontSize={"lg"} fontSize={"lg"} marginBottom={2} fontWeight={"bold"}>
+                        <Text fontSize={"lg"} marginBottom={2} fontWeight={"bold"}>
                             {title}
                         </Text>
                         <Text lineHeight={2} color={"gray.600"}>{description}</Text>
