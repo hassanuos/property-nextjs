@@ -1,6 +1,6 @@
 ## Getting Started
 
-Demo Url : [https://property-nextjs.vercel.app](https://property-nextjs-3ktggupjn-hassanuos.vercel.app/)
+Demo Url : [https://property-nextjs.vercel.app](https://property-nextjs.vercel.app/)
 
 ![img.png](img.png)
 
